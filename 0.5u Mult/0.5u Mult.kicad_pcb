@@ -69,7 +69,7 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "")
     )
@@ -419,9 +419,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp bbc701c5-6817-4a64-88bb-18868cc19767))
     (fp_line (start 1.6 0.8) (end -1.6 0.8)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp b6ebe262-aaba-4041-8315-36540b88cd54))
-    (pad "1" smd roundrect (at -1.55 0 270) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.192308)
+    (pad "1" smd roundrect (at -1.55 0 270) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923)
       (net 1 "Net-(D1-K)") (pintype "passive") (tstamp bdc2e323-d5b6-4188-a837-6bb25d2214a5))
-    (pad "2" smd roundrect (at 1.55 0 270) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.192308)
+    (pad "2" smd roundrect (at 1.55 0 270) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923)
       (net 9 "GND") (pintype "passive") (tstamp 83c019eb-6036-40bc-9894-2518b651db52))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
@@ -841,9 +841,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3710ff26-6cf9-4790-805e-341342650016))
     (fp_line (start 1.6 0.8) (end -1.6 0.8)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 4d84c0d6-84e5-47f5-8c11-5b4dc668a805))
-    (pad "1" smd roundrect (at -1.55 0 180) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.192308)
+    (pad "1" smd roundrect (at -1.55 0 180) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923)
       (net 3 "Net-(D3-K)") (pintype "passive") (tstamp bbbd6663-4d6a-44f1-8100-ea929820db0e))
-    (pad "2" smd roundrect (at 1.55 0 180) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.192308)
+    (pad "2" smd roundrect (at 1.55 0 180) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923)
       (net 9 "GND") (pintype "passive") (tstamp cf56f3d3-32ae-4a12-8457-5979226f3bc3))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
@@ -951,9 +951,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 436cff5f-a3d3-45f2-9629-cd1b75c12bbb))
     (fp_line (start 1.6 0.8) (end -1.6 0.8)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 8db4807c-594e-407e-b36b-4e3355efdc27))
-    (pad "1" smd roundrect (at -1.55 0 270) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.192308)
+    (pad "1" smd roundrect (at -1.55 0 270) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923)
       (net 7 "Net-(D7-K)") (pintype "passive") (tstamp 1795a122-113a-4b7f-ac30-835a92fb7f7e))
-    (pad "2" smd roundrect (at 1.55 0 270) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.192308)
+    (pad "2" smd roundrect (at 1.55 0 270) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923)
       (net 9 "GND") (pintype "passive") (tstamp 77fc2d3b-42fa-4a58-81bc-b695908b3402))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
@@ -1005,9 +1005,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp a65f7b2a-16e8-4f20-a93d-9bc3bf31f847))
     (fp_line (start 1.6 0.8) (end -1.6 0.8)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 02e3b43a-f559-4675-94a8-642d5ae62621))
-    (pad "1" smd roundrect (at -1.55 0) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.192308)
+    (pad "1" smd roundrect (at -1.55 0) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923)
       (net 5 "Net-(D5-K)") (pintype "passive") (tstamp 9658db8f-de3c-4852-a1bc-238977601071))
-    (pad "2" smd roundrect (at 1.55 0) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.192308)
+    (pad "2" smd roundrect (at 1.55 0) (size 1.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1923076923)
       (net 9 "GND") (pintype "passive") (tstamp 7c6b2921-5f41-4680-a6fa-247a29c1860d))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
@@ -1155,13 +1155,13 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 4 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ca6f168f-f4bf-40e1-be86-a9984ef92968)
+      (tstamp 350d1f67-bc26-4d52-ac8a-02748bcb2f97)
     )
     (fp_text value "Leon 0.5u Mounting Hole" (at 0 4 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp c59210ea-3936-49ef-ae71-634bd71cbf5d)
+      (tstamp cd233188-fec7-4c9b-b0b1-8779717ae4ca)
     )
-    (pad "" np_thru_hole oval (at 0 0 180) (size 6.5 5) (drill oval 4.5 3) (layers "*.Cu" "*.Mask") (tstamp bd820ab9-b120-4f09-9207-a5a036d0a1d9))
+    (pad "" np_thru_hole oval (at 0 0 180) (size 6.5 5) (drill oval 4.5 3) (layers "*.Cu" "*.Mask") (tstamp 0911511f-9e87-4c41-b4f2-e28fe96c3fde))
   )
 
   (footprint "Leon:Leon 0.5u Mounting Hole" (layer "B.Cu")
@@ -1170,13 +1170,13 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 4 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ca6f168f-f4bf-40e1-be86-a9984ef92968)
+      (tstamp 2ec16078-c394-4ea7-ae56-0ed69644387b)
     )
     (fp_text value "Leon 0.5u Mounting Hole" (at 0 4 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp c59210ea-3936-49ef-ae71-634bd71cbf5d)
+      (tstamp 4a266554-3aa1-45d3-9af4-3df7235d3448)
     )
-    (pad "" np_thru_hole oval (at 0 0 180) (size 6.5 5) (drill oval 4.5 3) (layers "*.Cu" "*.Mask") (tstamp bd820ab9-b120-4f09-9207-a5a036d0a1d9))
+    (pad "" np_thru_hole oval (at 0 0 180) (size 6.5 5) (drill oval 4.5 3) (layers "*.Cu" "*.Mask") (tstamp 650cb282-905c-4037-b57b-aa6a00bbb3d4))
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_no_silkscreen" (layer "B.Cu")
@@ -1241,13 +1241,13 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 4 unlocked) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
-      (tstamp ca6f168f-f4bf-40e1-be86-a9984ef92968)
+      (tstamp b2e687af-a5ae-43b3-a912-7cbb81bfe5f5)
     )
     (fp_text value "Leon 0.5u Mounting Hole" (at 0 4 unlocked) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-      (tstamp c59210ea-3936-49ef-ae71-634bd71cbf5d)
+      (tstamp 5f7dcf14-9461-4bd8-b40d-78ca17dad36a)
     )
-    (pad "" np_thru_hole oval (at 0 0 180) (size 6.5 5) (drill oval 4.5 3) (layers "F&B.Cu" "*.Mask") (tstamp bd820ab9-b120-4f09-9207-a5a036d0a1d9))
+    (pad "" np_thru_hole oval (at 0 0 180) (size 6.5 5) (drill oval 4.5 3) (layers "F&B.Cu" "*.Mask") (tstamp e75b501c-99d8-4868-88b0-8f07e2bb9f2a))
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_no_silkscreen" (layer "B.Cu")
